@@ -24,5 +24,5 @@ You can view the demo of my portfolio [here](https://elangovanportfolio.netlify.
 ### Local Development
 
 1. **Clone the repository:**
-   git clone  
+   git clone  https://github.com/Elangovan0101/Portfolio.git
    cd portfolio
