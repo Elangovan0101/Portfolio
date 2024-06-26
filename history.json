@@ -1,0 +1,22 @@
+[
+  {
+      "role": "AI Engineer Intern",
+      "organisation": "Wisdomsoft",
+      "startDate": "June, 2024",
+      "endDate": "July, 2024",
+      "experiences": [
+          "At Wisdomsoft in the Middle East, I developed efficient scheduling systems for maintenance services, leveraging Streamlit to create user-friendly applications. My work focused on optimizing resource allocation, managing complex data inputs, and enhancing user experiences, showcasing my ability to deliver practical and scalable software solutions."
+      ],
+      "imageSrc": "history/logo.png"
+  },
+  {
+      "role": "Machine Learning Engineer",
+      "organisation": "Sairam Techno Incubator",
+      "startDate": "December, 2022",
+      "endDate": "Present",
+      "experiences": [
+          "At Sairam Techno Incubator, I developed machine learning models for an autonomous aerial surveillance drone used in flood rescue operations. My work involved model training, achieving high accuracy scores, and implementing computer vision techniques to enhance the drone's capabilities in real-time disaster scenarios."
+      ],
+      "imageSrc": "history/sairam.png"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Music Genre",
+    "imageSrc": "projects/music.png",
+    "description": "Automating the classification of audio/music files to specific categories/genres using machine learning and deep learning algorithms.",
+    "skills": ["Python", "csv", "Jupyter Notebook"],
+    "source": "https://github.com/Elangovan0101/Music-genre-classification.git"
+  },
+  {
+    "title": "Service Scheduler",
+    "imageSrc": "projects/service.png",
+    "description": "This project is an Equipment Service Scheduler developed using Python, Streamlit. It helps in scheduling and managing equipment service efficiently.",
+    "skills": ["Python", "Streamlit", "Scheduling algorithms"],
+    "demo": "https://service-scheduler-wisdomsoft.streamlit.app/",
+    "source": "https://github.com/Elangovan0101/Service-scheduler.git"
+  },
+  {
+    "title": "Diabetes Prediction",
+    "imageSrc": "projects/diabetes.png",
+    "description": "Predicting diabetes risk using data-driven insights and machine learning.",
+    "skills": ["Python", "Pandas", "Scikit-Learn", "Random Forest"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Elangovan0101/Diabetes-prediction-.git"
+  }
+]
