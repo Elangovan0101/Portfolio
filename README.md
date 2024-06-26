@@ -10,6 +10,9 @@ This repository contains the code for my personal portfolio website showcasing m
 - **Skills:** Highlighting technical skills relevant to my expertise.
 - **Contact:** Contact form for visitors to reach out.
 
+You can view the demo of my portfolio [here](https://elangovanportfolio.netlify.app/).
+
+
 ## Technologies Used 🛠️
 
 - React.js
